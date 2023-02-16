@@ -1,0 +1,14 @@
+"emeraldwalk.runonsave": {
+    "commands": [
+        {
+            "match": "\\.md$",
+            "isAsync": true,
+            "cmd": "/Users/bdobson/Documents/vscrivener/bin/build.sh ${fileDirname} ${file}"
+        },
+        {
+            "match": "citations.txt$",
+            "isAsync": true,
+            "cmd": "/Users/bdobson/Documents/vscrivener/bin/citations.sh ${fileDirname} ${file}"
+        },
+    ]
+},

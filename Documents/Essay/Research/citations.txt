@@ -1,0 +1,11 @@
+https://www.cnn.com
+:section: Apples
+https://en.wikipedia.org/wiki/Apple
+https://parade.com/1330308/bethlipton/types-of-apples/
+
+:raw: Apples of North America: A Celebration of Exceptional Varieties, Tom Burford, Timber Press, September 28, 2021
+:section: Oranges
+https://en.wikipedia.org/wiki/Orange
+
+:raw: 2Apples of North America: A Celebration of Exceptional Varieties, Tom Burford, Timber Press, September 28, 2021
+:raw: Oranges of North America: A Celebration of Exceptional Varieties, Tom Burford, Timber Press, September 28, 2021
